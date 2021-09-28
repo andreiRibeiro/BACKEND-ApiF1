@@ -20,7 +20,7 @@ Utiliza JPA para a maioria das operações, porem devido a um item do desafio, t
    ##### Executar testes 
    ><code>mvn test</code>
 
-#### 2) Interface de requisições (Postman)
+#### 2) Interface com exemplo de requisições (Postman)
 ><code>[PostmanCollection.json](iCarros.postman_collection.json)</code>
 
 #### 3) Swagger
