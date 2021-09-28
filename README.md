@@ -12,7 +12,7 @@ Utiliza banco H2 (memória) portanto sempre que sistema é reiniciado os dados s
 
 Utiliza JPA para a maioria das operações, porem devido a um item do desafio, tambem possui operação direta com JDBC.
 
-#### 1) Formas de execução do sistema e testes.
+#### 1) Formas de execução do sistema e testes
 
    ##### Executar com Jar 
    ><code>java -jar icarros-0.0.1-SNAPSHOT.jar</code>
@@ -31,5 +31,5 @@ Utiliza JPA para a maioria das operações, porem devido a um item do desafio, t
 ><code>jdbc:h2:mem:icarrosdb</code>
 ><code>user: icarros, password: icarros</code>
 
-#### 3) Imagem DockerHub
+#### 5) Imagem DockerHub
 ><code>docker pull andreiaar/icarros:latest</code>
